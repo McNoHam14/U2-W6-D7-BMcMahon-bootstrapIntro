@@ -1,0 +1,15 @@
+.nav {
+    position: sticky;
+}
+
+.favouriteAlbum {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.largePic {
+    min-height: 500px;
+    min-width: 500px;
+
+}
